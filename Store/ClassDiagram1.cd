@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Store.Goods" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Goods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store.ManufacturerOfGoods" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ManufacturerOfGoods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store.Sellers" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Seller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store.SupplierOfGoods" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SupplierOfGoods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store.FormForAdmin" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9XCgAAAAhKqRABABKECBAsBiAMg7cFICFHYvCgAQEII=</HashCode>
+      <FileName>FormForAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store.FormForSeller" Collapsed="true">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FUCAAAAABCgQABAAKECAAEACAEg6UAAABBAKAgAABAI=</HashCode>
+      <FileName>FormForSeller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store.FormManufacturer" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BWKAAIAAACgQABAACEGAAEgCQAwiEAAAEAACCAAAAAI=</HashCode>
+      <FileName>FormManufacturer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store.FormPassword" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABEAAACAAAAKAAAIAAAAEEAAAAFAAAA=</HashCode>
+      <FileName>FormPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store.FormSeller" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BWCIAAAAICwQABAACEDAAEBCIAg6EAAAEHACAAAAAEI=</HashCode>
+      <FileName>FormSeller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Store.FormSupplier" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BWKAAAAAACgQABAAKECAAEACAAwKEAAAEEACAAgAAAI=</HashCode>
+      <FileName>FormSupplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
